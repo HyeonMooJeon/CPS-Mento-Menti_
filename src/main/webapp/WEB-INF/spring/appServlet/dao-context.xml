@@ -22,11 +22,11 @@
 		<property name="host" value="smtp.gmail.com" />
 		<property name="port" value="465" />
 		<property name="defaultEncoding" value="utf-8" />
-		<property name="username" value="toringmessage@gmail.com" />
-		<property name="password" value="sunmoon435" />
+		<property name="username" value="gmail" />
+		<property name="password" value="pass" />
 		<property name="javaMailProperties">
 			<props>
-				<prop key="mail.transport.protocol">smtp</prop>  
+				<prop key="mail.transport.protocol">smtp</prop>
 				<prop key="mail.smtp.ssl.trust">smtp.gmail.com</prop>
 				<prop key="mail.smtp.ssl.enable">true</prop>
 				<prop key="mail.smtp.auth">true</prop>
